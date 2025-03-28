@@ -18,3 +18,27 @@ body{
     text-decoration: none;
     color: #e5e7eb !important; 
 }
+
+#div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.maintext{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+.subtext{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+#bttn1{
+    background-color: #3882F6;
+    color: #e5e7eb;
+    font-size: 10px;
+    padding: auto;
+
+}
